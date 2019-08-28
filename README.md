@@ -1,2 +1,2 @@
 # Linked
-creating a List
+creating a List.
