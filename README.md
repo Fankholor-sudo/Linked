@@ -1,5 +1,5 @@
 # Pac man clone
-**Pac man clone project.**
+Pac man clone project.
 
 #### Created: 2019
 #### Tech Stack: HTML5, JAVASCRIPT, CSS
